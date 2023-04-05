@@ -75,12 +75,12 @@ logo=("""\x1b[1;92m
 ║        WELCOME TO RED-H COMMAND     ║     
 ╚══════════════════════════════════════╝                                     
 ╔══════════════════════════════════════╗
-║\033[1;97m[+] DEVOLPER   : RED-H ARMY YT        ║
-║\033[1;97m[+] FACEBOOK   : Fraz Ali YT        ║
-║\033[1;97m[+] YOUTUBE   : TiKViD        ║
-║\033[1;97m[+] WHATSAPP   : 03163805153          ║
-║\033[1;97m[+] GITHUB     : RED-H-ARMY        ║
-║\033[1;97m[+] VERTION    : 1.0                  ║
+║\033[1;97m[+] DEVOLPER    : RED-H ARMY YT                          ║
+║\033[1;97m[+] FACEBOOK    : Fraz Ali YT                                    ║
+║\033[1;97m[+] YOUTUBE       : TiKViD                                          ║
+║\033[1;97m[+] WHATSAPP   : 03163805153                              ║
+║\033[1;97m[+] GITHUB          : RED-H-ARMY                               ║
+║\033[1;97m[+] VERTION        : 1.0                                                 ║
 ╚══════════════════════════════════════╝""")
 def linex():
 	print('----------------------------------------------')
